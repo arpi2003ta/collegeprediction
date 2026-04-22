@@ -1,2 +1,2 @@
 It favors the program than the institution.
-![Alt Text](./image.jpeg)
+![College Prediction](https://raw.githubusercontent.com/arpi2003ta/collegeprediction/main/image.jpeg)
