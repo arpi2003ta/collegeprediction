@@ -3,3 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/arpi2003ta/collegeprediction/main/image.jpeg" width="500"/>
 </p>
+
+# College Prediction Dataset 
+
+OR-CR | Joint Seat Allocation Authority (JOSAA) | India https://share.google/WptVsXcDiJQOZX3D2
